@@ -1,4 +1,4 @@
-# Mern-to-do-application
+# Mern-To-Do-Application
 A Todo app made using MERN stack with features enabling CRUD applications and uses MVC architecture and saves data in the database.
 
 # Installation
