@@ -3,7 +3,7 @@ A Todo app made using MERN stack with features enabling CRUD applications and us
 
 # Installation
 ```
-git clone https://github.com/sraosubhash/Mern-to-do-application.git
+git clone https://github.com/sraosubhash/Mern-To-Do-Application.git
 ```
 
 ## Go to frontend and backend directory to install packages
